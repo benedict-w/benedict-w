@@ -10,37 +10,37 @@ I enjoy solving difficult technical problems, modernising legacy systems and bui
 
 ⸻
 
-🚀 What I Do
+### 🚀 What I Do
 
-🏗️ Backend Development
+**🗄️ Backend Development**
 
 Building business applications, eCommerce platforms, APIs and integrations with Laravel and PHP.
 
-🎨 Front-end Development
+**🖥️ Front-end Development**
 
 Building modern websites, SPAs and user interfaces using JavaScript frameworks including React, Vue and Svelte.
 
-🌐 Custom WordPress Development
+**🌐 Custom WordPress Development**
 
 Building bespoke WordPress websites, themes and plugins—from classic themes and Timber to Gutenberg and Full Site Editing.
 
-🛒 WooCommerce Development
+**🛒 WooCommerce Development**
 
 Building scalable WooCommerce stores, bespoke functionality and third-party integrations.
 
-📱 Mobile Applications
+**📱 Mobile Applications**
 
 Building cross-platform mobile applications for iOS and Android with React Native.
 
-🔌 APIs & Integrations
+**🔌 APIs & Integrations**
 
 Connecting applications through APIs, third-party services and bespoke integrations.
 
 ⸻
 
-⭐ Open Source
+### ⭐ Open Source
 
-PressGang
+**PressGang**
 
 PressGang is the WordPress framework I’ve gradually evolved through more than 20 years of commercial development.
 
@@ -52,9 +52,7 @@ https://docs.pressgang.dev
 💻 GitHub
 https://github.com/pressgang-wp/pressgang
 
-⸻
-
-Quartermaster
+**Quartermaster**
 
 A fluent WP_Query builder with a clean, expressive API for composing complex WordPress queries.
 
