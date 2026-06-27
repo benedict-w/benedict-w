@@ -70,4 +70,4 @@ https://benedict-wallis.com
 https://linkedin.com/in/benedictwallis
 
 📧 Email
-hello@benedict-wallis.com
+ben@benedict-wallis.com
