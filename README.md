@@ -61,7 +61,7 @@ https://github.com/pressgang-wp/pressgang-quartermaster
 
 ⸻
 
-🤝 Let’s Connect
+**🤝 Let’s Connect**
 
 🌍 Website
 https://benedict-wallis.com
