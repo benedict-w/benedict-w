@@ -1,4 +1,4 @@
-## Benedict Wallis Ltd
+## Benedict Wallis
 
 I build bespoke software and web applications.
 
