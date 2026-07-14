@@ -46,6 +46,8 @@ PressGang is the WordPress framework I’ve gradually evolved through more than 
 
 It codifies the patterns, tooling and architecture I use across every WordPress project, making development cleaner, more consistent and easier to maintain.
 
+🌍 https://pressgang.dev
+
 📖 Documentation
 https://docs.pressgang.dev
 
